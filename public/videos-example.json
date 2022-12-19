@@ -1,0 +1,11 @@
+{
+  "videolist": [
+    {
+      "filename": "./video/WinterSunsetFeb2022.MP4",
+      "title": "WinterSunsetFeb2022",
+      "thumb": "https://via.placeholder.com/191x286/000000/FFFFFF/?text=WinterSunsetFeb2022",
+      "length": "01:22:07",
+      "dimensions": "3840x1920"
+    }
+  ]
+}
